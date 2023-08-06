@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8c6089d2-1fad-4018-9e6d-f8eb893df51c</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8c6089d2-1fad-4018-9e6d-f8eb893df51c</dc:identifier>
+        <dc:title>How to Take Smart Notes. One Simple Technique to Boost Writing, Learning and Thinking</dc:title>
+        <dc:creator opf:file-as="Ahrens, Sönke" opf:role="aut">Sönke Ahrens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-14T17:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;This is the second, revised and expanded edition. The first edition was published under the slightly longer title "How to Take Smart Notes. One Simple Technique to Boost Writing, Learning and Thinking - for Students, Academics and Nonfiction Book Writers".&lt;br&gt;The key to good and efficient writing lies in the intelligent organisation of ideas and notes. This book helps students, academics and other knowledge workers to get more done, write intelligent texts and learn for the long run. It teaches you how to take smart notes and ensure they bring you and your projects forward.&lt;br&gt;The Take Smart Notes principle is based on established psychological insight and draws from a tried and tested note-taking technique: the Zettelkasten. This is the first comprehensive guide and description of this system in English, and not only does it explain how it works, but also why. It suits students and academics in the social sciences and humanities, nonfiction writers and others who are in the...</dc:description>
+        <dc:publisher>Sönke Ahrens</dc:publisher>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
